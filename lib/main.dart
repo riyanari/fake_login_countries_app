@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 
 import 'routes/app_pages.dart';
 import 'routes/routes_name.dart';
-import 'theme/colors.dart';
+import 'themes/colors.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
